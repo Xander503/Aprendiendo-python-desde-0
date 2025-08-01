@@ -1,11 +1,6 @@
 #Este es un comentario
 
-'''
-Este es un comentario de varias lineas
-Este es un comentario de varias lineas
-Este es un comentario de varias lineas
-Este es un comentario de varias lineas
-Este es un comentario de varias lineas
-'''
+# para comentar varias lineas podenos seleccionar lo que queremos comentar y presionar ctrl + k + c
+# y para descomentar ctrl + k + u
 
 print("hola mundo")
