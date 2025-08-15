@@ -1,4 +1,4 @@
-# declaramos e inicializamos 2 numeros y hacemos uso de los tipos de operadores
+# Declaramos e inicializamos 2 numeros y hacemos uso de los tipos de operadores
 numero1 = 10
 numero2 = 3
 
