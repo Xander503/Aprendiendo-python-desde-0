@@ -34,6 +34,7 @@ for x in range(len(lista_de_carros)):
     print(lista_de_carros[x])
 
 
+
 # tuplas(Colecciones ordenadas e inmutables)
 print("------------------ \nTupla:")
 tupla_de_frutas = ("banana", "manzana", "pera", "uva")
@@ -41,6 +42,7 @@ tupla_de_frutas = ("banana", "manzana", "pera", "uva")
 # imprimimos los valores de la tupla
 for x in range(len(tupla_de_frutas)):
     print(tupla_de_frutas[x])
+
 
 
 # conjuntos(Colecciones desordenadas, mutables y de elementos únicos)
