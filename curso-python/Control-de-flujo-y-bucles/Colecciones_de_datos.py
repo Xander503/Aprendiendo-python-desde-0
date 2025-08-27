@@ -66,6 +66,7 @@ for elemento in sorted(conjunto):
     print(elemento)
 
 
+
 # diccionarios(Colecciones desordenadas que almacenan datos en pares de clave-valor)
 diccionario = {}
 

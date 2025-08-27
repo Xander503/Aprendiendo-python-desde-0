@@ -15,3 +15,4 @@ if nombre != "":
     
     else:
         print("por favor ingrese datos que sean validos")
+        

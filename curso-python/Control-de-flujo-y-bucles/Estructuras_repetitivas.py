@@ -31,3 +31,4 @@ for numero in range (10):
         continue
     print(numero)
 
+
